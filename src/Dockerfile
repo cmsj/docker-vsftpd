@@ -2,7 +2,7 @@ FROM ubuntu:devel
 MAINTAINER Chris Jones <cmsj@tenshu.net>
 
 # Install vsftpd
-RUN apt-get update && apt-get install -y vsftpd ; apt-get clean
+RUN apt-get update && apt-get install -y tini vsftpd ; apt-get clean
 
 # Make a place for ftp volume mounts to live
 RUN mkdir -p /ftp
