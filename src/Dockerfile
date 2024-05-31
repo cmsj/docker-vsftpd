@@ -4,8 +4,8 @@ MAINTAINER Chris Jones <cmsj@tenshu.net>
 # Install vsftpd
 RUN apt-get update && apt-get install -y vsftpd ; apt-get clean
 
-# Make a place for share volume mounts to live
-RUN mkdir -p /opt/vsftpd/
+# Make a place for ftp volume mounts to live
+RUN mkdir -p /ftp
 
 # Copy init script
 COPY vsftpd.sh /usr/local/bin/
