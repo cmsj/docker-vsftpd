@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y tini vsftpd ; apt-get clean
 # Make a place for ftp volume mounts to live
 RUN mkdir -p /ftp
 RUN chmod 555 /ftp
+RUN chown nobody:nogroup /ftp
 RUN /usr/bin/ln -sf /dev/stdout /stdout.log
 
 # Copy init script
