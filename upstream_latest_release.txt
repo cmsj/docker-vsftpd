@@ -26,9 +26,9 @@ Inst systemd (256.5-2ubuntu4 Ubuntu:25.04/plucky [amd64])
 Inst adduser (3.137ubuntu2 Ubuntu:25.04/plucky [all])
 Inst cron-daemon-common (3.0pl1-189ubuntu1 Ubuntu:25.04/plucky [all])
 Inst cron (3.0pl1-189ubuntu1 Ubuntu:25.04/plucky [amd64])
-Inst gcc-14-base [14.2.0-7ubuntu1] (14.2.0-8ubuntu1 Ubuntu:25.04/plucky [amd64]) [libstdc++6:amd64 libgcc-s1:amd64 ]
-Inst libstdc++6 [14.2.0-7ubuntu1] (14.2.0-8ubuntu1 Ubuntu:25.04/plucky [amd64]) [libgcc-s1:amd64 ]
-Inst libgcc-s1 [14.2.0-7ubuntu1] (14.2.0-8ubuntu1 Ubuntu:25.04/plucky [amd64])
+Inst gcc-14-base [14.2.0-8ubuntu1] (14.2.0-9ubuntu1 Ubuntu:25.04/plucky [amd64]) [libstdc++6:amd64 libgcc-s1:amd64 ]
+Inst libstdc++6 [14.2.0-8ubuntu1] (14.2.0-9ubuntu1 Ubuntu:25.04/plucky [amd64]) [libgcc-s1:amd64 ]
+Inst libgcc-s1 [14.2.0-8ubuntu1] (14.2.0-9ubuntu1 Ubuntu:25.04/plucky [amd64])
 Inst openssl (3.3.1-2ubuntu2 Ubuntu:25.04/plucky [amd64])
 Inst ca-certificates (20240203 Ubuntu:25.04/plucky [all])
 Inst libdbus-1-3 (1.14.10-4ubuntu5 Ubuntu:25.04/plucky [amd64])
@@ -37,7 +37,7 @@ Inst dbus-session-bus-common (1.14.10-4ubuntu5 Ubuntu:25.04/plucky [all])
 Inst dbus-daemon (1.14.10-4ubuntu5 Ubuntu:25.04/plucky [amd64])
 Inst dbus-system-bus-common (1.14.10-4ubuntu5 Ubuntu:25.04/plucky [all])
 Inst dbus (1.14.10-4ubuntu5 Ubuntu:25.04/plucky [amd64])
-Inst libatomic1 (14.2.0-8ubuntu1 Ubuntu:25.04/plucky [amd64])
+Inst libatomic1 (14.2.0-9ubuntu1 Ubuntu:25.04/plucky [amd64])
 Inst libglib2.0-0t64 (2.82.2-3 Ubuntu:25.04/plucky [amd64])
 Inst gir1.2-glib-2.0 (2.82.2-3 Ubuntu:25.04/plucky [amd64])
 Inst libgirepository-1.0-1 (1.82.0-2 Ubuntu:25.04/plucky [amd64])
