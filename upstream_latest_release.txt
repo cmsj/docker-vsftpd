@@ -19,8 +19,8 @@ Inst libapparmor1 (4.1.0~beta1-0ubuntu5 Ubuntu:25.04/plucky [amd64])
 Inst libsystemd0 [256.5-2ubuntu4] (257.2-3ubuntu1 Ubuntu:25.04/plucky [amd64])
 Inst systemd (257.2-3ubuntu1 Ubuntu:25.04/plucky [amd64])
 Inst adduser (3.137ubuntu2 Ubuntu:25.04/plucky [all])
-Inst cron-daemon-common (3.0pl1-189ubuntu1 Ubuntu:25.04/plucky [all])
-Inst cron (3.0pl1-189ubuntu1 Ubuntu:25.04/plucky [amd64])
+Inst cron-daemon-common (3.0pl1-192ubuntu1 Ubuntu:25.04/plucky [all])
+Inst cron (3.0pl1-192ubuntu1 Ubuntu:25.04/plucky [amd64])
 Inst gcc-14-base [14.2.0-9ubuntu1] (14.2.0-16ubuntu1 Ubuntu:25.04/plucky [amd64]) [libstdc++6:amd64 libgcc-s1:amd64 ]
 Inst libstdc++6 [14.2.0-9ubuntu1] (14.2.0-16ubuntu1 Ubuntu:25.04/plucky [amd64]) [libgcc-s1:amd64 ]
 Inst libgcc-s1 [14.2.0-9ubuntu1] (14.2.0-16ubuntu1 Ubuntu:25.04/plucky [amd64])
