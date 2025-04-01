@@ -5,7 +5,7 @@ Inst libc-bin [2.40-1ubuntu3] (2.41-6ubuntu1 Ubuntu:25.04/plucky [amd64])
 Inst libssl3t64 [3.3.1-2ubuntu2] (3.4.1-1ubuntu2 Ubuntu:25.04/plucky [amd64]) []
 Inst openssl-provider-legacy (3.4.1-1ubuntu2 Ubuntu:25.04/plucky [amd64])
 Inst libpython3.13-minimal (3.13.2-3 Ubuntu:25.04/plucky [amd64])
-Inst libexpat1 (2.7.0-1ubuntu1 Ubuntu:25.04/plucky [amd64])
+Inst libexpat1 (2.7.1-1 Ubuntu:25.04/plucky [amd64])
 Inst python3.13-minimal (3.13.2-3 Ubuntu:25.04/plucky [amd64])
 Inst python3-minimal (3.13.2-2 Ubuntu:25.04/plucky [amd64])
 Inst media-types (13.0.0 Ubuntu:25.04/plucky [all])
