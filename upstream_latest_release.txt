@@ -1,5 +1,5 @@
 Inst libsystemd-shared (257.4-1ubuntu3 Ubuntu:25.10/questing [amd64])
-Inst libapparmor1 (4.1.0~beta5-0ubuntu15 Ubuntu:25.10/questing [amd64])
+Inst libapparmor1 (4.1.0~beta5-0ubuntu16 Ubuntu:25.10/questing [amd64])
 Inst systemd (257.4-1ubuntu3 Ubuntu:25.10/questing [amd64])
 Inst adduser (3.137ubuntu2 Ubuntu:25.10/questing [all])
 Inst cron-daemon-common (3.0pl1-196ubuntu1 Ubuntu:25.10/questing [all])
