@@ -1,4 +1,4 @@
-Inst systemd-standalone-sysusers (257.7-1ubuntu3 Ubuntu:25.10/questing [amd64])
+Inst systemd-standalone-sysusers (257.8-0ubuntu2 Ubuntu:25.10/questing [amd64])
 Inst adduser (3.152ubuntu1 Ubuntu:25.10/questing [all])
 Inst cron-daemon-common (3.0pl1-196ubuntu1 Ubuntu:25.10/questing [all])
 Inst cron (3.0pl1-196ubuntu1 Ubuntu:25.10/questing [amd64])
