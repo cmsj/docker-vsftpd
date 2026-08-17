@@ -1,4 +1,4 @@
-Inst libexpat1 (2.8.2-1 Ubuntu:26.10/stonking [amd64])
+Inst libexpat1 (2.8.3-1 Ubuntu:26.10/stonking [amd64])
 Inst libsystemd-shared (259.5-0ubuntu3 Ubuntu:26.10/stonking [amd64])
 Inst systemd (259.5-0ubuntu3 Ubuntu:26.10/stonking [amd64])
 Inst systemd-sysv (259.5-0ubuntu3 Ubuntu:26.10/stonking [amd64])
